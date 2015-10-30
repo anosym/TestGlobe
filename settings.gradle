@@ -1,0 +1,4 @@
+include ':app'
+include 'lib:external:g3m:Commons:G3MSharedSDK'
+include 'lib:external:g3m:Android:G3MAndroidSDK'
+include 'lib:external:g3m:WebGL:G3MWebGLSDK'
